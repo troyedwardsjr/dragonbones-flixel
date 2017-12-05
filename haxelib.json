@@ -1,0 +1,10 @@
+{
+	"name": "dragonbones-flixel",
+	"url": "http://www.dragonbones.com",
+	"license": "MIT",
+	"tags": [],
+	"description": "DragonBones Haxe/OpenFL/Starling/Flixel Runtime",
+	"version": "5.0.0",
+	"releasenote": "Add flixel factory.",
+	"contributors": [ "troyedwardsjr" ]
+}
