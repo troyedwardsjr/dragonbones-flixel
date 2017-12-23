@@ -38,6 +38,7 @@ using Lambda;
 	private function new()
 	{
 		super();
+		this.solid = false;
 	}
 	/**
 	 * @private

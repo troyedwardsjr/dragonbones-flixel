@@ -3,4 +3,4 @@
 DragonBones Flixel
 ===========
 
-Flixel runtime support for DragonBones skeletal animation
+Flixel runtime support for DragonBones skeletal animation.
